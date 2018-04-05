@@ -13,3 +13,9 @@ function logWhisper(string) {
 function sayHiToGrandma(string){
   return 'I can\'t hear you!'
   }
+var = "something"
+if ("something" === "dog") {
+  console.log("exactly")
+}
+  else if ("something" != "dog")
+  console.log("wrong")
