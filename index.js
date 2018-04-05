@@ -8,11 +8,11 @@ function logShout(string) {
   console.log('HELLO')
 }
 function logWhisper(string) {
-  console.log('i love you') 
+  console.log('hello') 
 }
   if (string === hello) {
   return 'I can\'t hear you!'
   }
   else if (string === HELLO) {
-    return "YES INDEED!
+    return "YES INDEED!"
   }
